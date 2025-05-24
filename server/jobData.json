@@ -1,0 +1,1106 @@
+[
+ {
+    "title": "Data Scientist",
+    "interest": "technology",
+    "salary": "₹10,00,000",
+    "nature": "Data analysis, machine learning, business insights",
+    "exams": "None",
+    "effort": "Very High"
+  },
+   {
+    "title": "Software Developer",
+    "interest": "technology",
+    "salary": "₹8,00,000",
+    "nature": "Office-based, coding and system design",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "interest": "technology",
+    "salary": "₹7,50,000",
+    "nature": "Security monitoring, threat detection, incident response",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Cloud Solutions Architect",
+    "interest": "technology",
+    "salary": "₹12,00,000",
+    "nature": "Cloud infrastructure design and strategy",
+    "exams": "AWS/GCP/Azure Certifications",
+    "effort": "Very High"
+  },
+  {
+    "title": "AI/ML Engineer",
+    "interest": "technology",
+    "salary": "₹12,00,000",
+    "nature": "Building machine learning models and AI solutions",
+    "exams": "None",
+    "effort": "Very High"
+  },
+  {
+    "title": "DevOps Engineer",
+    "interest": "technology",
+    "salary": "₹9,00,000",
+    "nature": "Automation, deployment pipelines, infrastructure as code",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Frontend Developer",
+    "interest": "technology",
+    "salary": "₹6,00,000",
+    "nature": "UI development using HTML, CSS, JavaScript",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Backend Developer",
+    "interest": "technology",
+    "salary": "₹7,50,000",
+    "nature": "Server-side logic, databases, APIs",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Full Stack Developer",
+    "interest": "technology",
+    "salary": "₹9,00,000",
+    "nature": "Frontend and backend development",
+    "exams": "None",
+    "effort": "Very High"
+  },
+  {
+    "title": "Blockchain Developer",
+    "interest": "technology",
+    "salary": "₹11,00,000",
+    "nature": "Smart contract development, decentralized apps",
+    "exams": "None",
+    "effort": "Very High"
+  },
+  {
+    "title": "Mobile App Developer",
+    "interest": "technology",
+    "salary": "₹6,50,000",
+    "nature": "Android/iOS app development",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Game Developer",
+    "interest": "technology",
+    "salary": "₹5,50,000",
+    "nature": "Game design and programming",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "UI/UX Designer",
+    "interest": "technology",
+    "salary": "₹6,00,000",
+    "nature": "User interface and experience design",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Systems Analyst",
+    "interest": "technology",
+    "salary": "₹7,00,000",
+    "nature": "Analyzing IT systems and requirements",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "IT Support Specialist",
+    "interest": "technology",
+    "salary": "₹4,00,000",
+    "nature": "Technical support, troubleshooting, maintenance",
+    "exams": "None",
+    "effort": "Low"
+  },
+  {
+    "title": "IT Project Manager",
+    "interest": "technology",
+    "salary": "₹10,00,000",
+    "nature": "Managing tech projects, coordination, delivery",
+    "exams": "PMP (optional)",
+    "effort": "High"
+  },
+  {
+    "title": "Database Administrator",
+    "interest": "technology",
+    "salary": "₹6,50,000",
+    "nature": "Database management and optimization",
+    "exams": "Oracle/Microsoft Certifications",
+    "effort": "Medium"
+  },
+  {
+    "title": "Network Engineer",
+    "interest": "technology",
+    "salary": "₹5,50,000",
+    "nature": "Designing and maintaining networks",
+    "exams": "CCNA/CCNP",
+    "effort": "High"
+  },
+  {
+    "title": "Ethical Hacker",
+    "interest": "technology",
+    "salary": "₹8,00,000",
+    "nature": "Penetration testing, vulnerability analysis",
+    "exams": "CEH",
+    "effort": "High"
+  },
+  {
+    "title": "Computer Vision Engineer",
+    "interest": "technology",
+    "salary": "₹11,00,000",
+    "nature": "Image and video analysis systems",
+    "exams": "None",
+    "effort": "Very High"
+  },
+  {
+    "title": "IoT Developer",
+    "interest": "technology",
+    "salary": "₹7,00,000",
+    "nature": "Developing Internet of Things solutions",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Technical Writer",
+    "interest": "technology",
+    "salary": "₹5,00,000",
+    "nature": "Documenting tech systems and manuals",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "QA/Test Engineer",
+    "interest": "technology",
+    "salary": "₹5,50,000",
+    "nature": "Software testing and quality assurance",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Robotics Engineer",
+    "interest": "technology",
+    "salary": "₹9,00,000",
+    "nature": "Designing and building robots",
+    "exams": "None",
+    "effort": "Very High"
+  },
+  {
+    "title": "AR/VR Developer",
+    "interest": "technology",
+    "salary": "₹8,00,000",
+    "nature": "Augmented and virtual reality applications",
+    "exams": "None",
+    "effort": "Very High"
+  },
+  {
+    "title": "Embedded Systems Engineer",
+    "interest": "technology",
+    "salary": "₹7,50,000",
+    "nature": "Programming hardware and firmware systems",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Big Data Engineer",
+    "interest": "technology",
+    "salary": "₹10,00,000",
+    "nature": "Managing large-scale data systems",
+    "exams": "None",
+    "effort": "Very High"
+  },
+  {
+    "title": "IT Consultant",
+    "interest": "technology",
+    "salary": "₹9,00,000",
+    "nature": "Providing IT strategy and solutions",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Tech Entrepreneur",
+    "interest": "technology",
+    "salary": "Varies",
+    "nature": "Starting and managing tech startups",
+    "exams": "None",
+    "effort": "Very High"
+  },
+  {
+    "title": "Computer Hardware Engineer",
+    "interest": "technology",
+    "salary": "₹6,50,000",
+    "nature": "Designing and testing computer hardware",
+    "exams": "None",
+    "effort": "High"
+  },
+   {
+    "title": "Bioinformatics Scientist",
+    "interest": "technology",
+    "salary": "₹9,00,000",
+    "nature": "Analyzing biological data using computational tools",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Penetration Tester",
+    "interest": "technology",
+    "salary": "₹8,50,000",
+    "nature": "Simulating cyber attacks to find vulnerabilities",
+    "exams": "CEH/OSCP",
+    "effort": "High"
+  },
+  {
+    "title": "IT Compliance Analyst",
+    "interest": "technology",
+    "salary": "₹6,50,000",
+    "nature": "Ensuring adherence to IT regulations and policies",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Data Engineer",
+    "interest": "technology",
+    "salary": "₹9,00,000",
+    "nature": "Building data pipelines and ETL systems",
+    "exams": "None",
+    "effort": "Very High"
+  },
+  {
+    "title": "Simulation Engineer",
+    "interest": "technology",
+    "salary": "₹7,50,000",
+    "nature": "Creating simulations for engineering systems",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "CAD Engineer",
+    "interest": "technology",
+    "salary": "₹5,00,000",
+    "nature": "Designing using computer-aided design software",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "E-commerce Developer",
+    "interest": "technology",
+    "salary": "₹6,00,000",
+    "nature": "Building and maintaining e-commerce websites",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Chief Technology Officer (CTO)",
+    "interest": "technology",
+    "salary": "₹25,00,000",
+    "nature": "Technology leadership and strategy",
+    "exams": "None",
+    "effort": "Very High"
+  },
+  {
+    "title": "Digital Product Manager",
+    "interest": "technology",
+    "salary": "₹12,00,000",
+    "nature": "Managing the development and lifecycle of digital products",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Firmware Developer",
+    "interest": "technology",
+    "salary": "₹7,00,000",
+    "nature": "Programming low-level software for hardware",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Tech Evangelist",
+    "interest": "technology",
+    "salary": "₹10,00,000",
+    "nature": "Promoting tech tools and platforms to developers",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Digital Transformation Consultant",
+    "interest": "technology",
+    "salary": "₹13,00,000",
+    "nature": "Advising businesses on adopting digital technologies",
+    "exams": "None",
+    "effort": "Very High"
+  },
+  {
+    "title": "Systems Integrator",
+    "interest": "technology",
+    "salary": "₹6,50,000",
+    "nature": "Combining different IT systems into one cohesive system",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Voice User Interface (VUI) Designer",
+    "interest": "technology",
+    "salary": "₹6,00,000",
+    "nature": "Designing voice-command systems for smart devices",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "IT Risk Analyst",
+    "interest": "technology",
+    "salary": "₹7,00,000",
+    "nature": "Assessing and mitigating IT risks",
+    "exams": "CRISC (optional)",
+    "effort": "High"
+  },
+  {
+    "title": "AI Product Manager",
+    "interest": "technology",
+    "salary": "₹15,00,000",
+    "nature": "Overseeing AI-based product development",
+    "exams": "None",
+    "effort": "Very High"
+  },
+  {
+    "title": "RPA Developer",
+    "interest": "technology",
+    "salary": "₹8,00,000",
+    "nature": "Creating automation bots using RPA tools",
+    "exams": "UiPath/Automation Anywhere Certifications (optional)",
+    "effort": "High"
+  },
+  {
+    "title": "Digital Twin Engineer",
+    "interest": "technology",
+    "salary": "₹9,00,000",
+    "nature": "Developing virtual replicas of physical assets",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "No-code/Low-code Developer",
+    "interest": "technology",
+    "salary": "₹5,50,000",
+    "nature": "Building applications using visual development tools",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "SaaS Operations Manager",
+    "interest": "technology",
+    "salary": "₹10,00,000",
+    "nature": "Managing SaaS platforms and customer delivery",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Research Scientist",
+    "interest": "science & research",
+    "salary": "₹9,00,000",
+    "nature": "Conducts experiments and analyzes scientific data",
+    "exams": "CSIR-NET/GATE",
+    "effort": "Very High"
+  },
+  {
+    "title": "Biochemist",
+    "interest": "science & research",
+    "salary": "₹7,00,000",
+    "nature": "Studies chemical processes in living organisms",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Microbiologist",
+    "interest": "science & research",
+    "salary": "₹6,00,000",
+    "nature": "Researches microorganisms and their effects",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Physicist",
+    "interest": "science & research",
+    "salary": "₹10,00,000",
+    "nature": "Studies physical phenomena and laws of nature",
+    "exams": "CSIR-NET/JEST",
+    "effort": "Very High"
+  },
+  {
+    "title": "Chemist",
+    "interest": "science & research",
+    "salary": "₹6,50,000",
+    "nature": "Analyzes chemical compounds and reactions",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Astronomer",
+    "interest": "science & research",
+    "salary": "₹8,00,000",
+    "nature": "Studies celestial objects and the universe",
+    "exams": "JEST/GATE",
+    "effort": "Very High"
+  },
+  {
+    "title": "Geologist",
+    "interest": "science & research",
+    "salary": "₹6,50,000",
+    "nature": "Studies Earth's structure and materials",
+    "exams": "GATE",
+    "effort": "High"
+  },
+  {
+    "title": "Meteorologist",
+    "interest": "science & research",
+    "salary": "₹7,00,000",
+    "nature": "Studies weather and atmospheric patterns",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Oceanographer",
+    "interest": "science & research",
+    "salary": "₹7,50,000",
+    "nature": "Researches oceans and marine life",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Ecologist",
+    "interest": "science & research",
+    "salary": "₹6,00,000",
+    "nature": "Studies ecosystems and environmental impact",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Paleontologist",
+    "interest": "science & research",
+    "salary": "₹6,50,000",
+    "nature": "Studies fossils and ancient life forms",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Zoologist",
+    "interest": "science & research",
+    "salary": "₹5,50,000",
+    "nature": "Studies animals and their behaviors",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Botanist",
+    "interest": "science & research",
+    "salary": "₹5,50,000",
+    "nature": "Studies plant life and ecosystems",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Clinical Research Associate",
+    "interest": "science & research",
+    "salary": "₹6,00,000",
+    "nature": "Conducts clinical trials for new drugs",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Geneticist",
+    "interest": "science & research",
+    "salary": "₹8,00,000",
+    "nature": "Studies genes and heredity",
+    "exams": "None",
+    "effort": "Very High"
+  },
+  {
+    "title": "Environmental Scientist",
+    "interest": "science & research",
+    "salary": "₹6,00,000",
+    "nature": "Researches environmental challenges and solutions",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Forensic Scientist",
+    "interest": "science & research",
+    "salary": "₹5,50,000",
+    "nature": "Analyzes crime scene evidence",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Pharmacologist",
+    "interest": "science & research",
+    "salary": "₹8,50,000",
+    "nature": "Studies effects of drugs on biological systems",
+    "exams": "None",
+    "effort": "Very High"
+  },
+  {
+    "title": "Food Technologist",
+    "interest": "science & research",
+    "salary": "₹5,00,000",
+    "nature": "Researches food production and safety",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Toxicologist",
+    "interest": "science & research",
+    "salary": "₹6,50,000",
+    "nature": "Studies harmful effects of chemicals",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Materials Scientist",
+    "interest": "science & research",
+    "salary": "₹7,50,000",
+    "nature": "Develops new materials and technologies",
+    "exams": "GATE",
+    "effort": "High"
+  },
+  {
+    "title": "Nuclear Physicist",
+    "interest": "science & research",
+    "salary": "₹12,00,000",
+    "nature": "Researches atomic nuclei and energy",
+    "exams": "JEST/GATE",
+    "effort": "Very High"
+  },
+  {
+    "title": "Nanotechnologist",
+    "interest": "science & research",
+    "salary": "₹9,00,000",
+    "nature": "Works with nanoscale materials",
+    "exams": "None",
+    "effort": "Very High"
+  },
+  {
+    "title": "Biomedical Researcher",
+    "interest": "science & research",
+    "salary": "₹8,00,000",
+    "nature": "Conducts research in human health and disease",
+    "exams": "None",
+    "effort": "Very High"
+  },
+  {
+    "title": "Anthropologist",
+    "interest": "science & research",
+    "salary": "₹5,50,000",
+    "nature": "Studies human societies and evolution",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Science Policy Analyst",
+    "interest": "science & research",
+    "salary": "₹7,00,000",
+    "nature": "Advises on science-based policy decisions",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Patent Examiner (Scientific)",
+    "interest": "science & research",
+    "salary": "₹6,50,000",
+    "nature": "Reviews patent applications for inventions",
+    "exams": "UPSC or relevant",
+    "effort": "High"
+  },
+  {
+    "title": "Agricultural Scientist",
+    "interest": "science & research",
+    "salary": "₹6,00,000",
+    "nature": "Improves farming and crop yields",
+    "exams": "ICAR NET",
+    "effort": "Medium"
+  },
+  {
+    "title": "Science Communicator",
+    "interest": "science & research",
+    "salary": "₹5,00,000",
+    "nature": "Translates science for public understanding",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Neuroscientist",
+    "interest": "science & research",
+    "salary": "₹9,00,000",
+    "nature": "Studies the brain and nervous system",
+    "exams": "None",
+    "effort": "Very High"
+  },
+  {
+    "title": "Statistician",
+    "interest": "science & research",
+    "salary": "₹6,50,000",
+    "nature": "Applies statistics to scientific data",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Mathematician",
+    "interest": "science & research",
+    "salary": "₹7,50,000",
+    "nature": "Researches in pure or applied mathematics",
+    "exams": "CSIR-NET",
+    "effort": "Very High"
+  },
+  {
+    "title": "Astrophysicist",
+    "interest": "science & research",
+    "salary": "₹10,00,000",
+    "nature": "Explores physics of the universe",
+    "exams": "JEST/GATE",
+    "effort": "Very High"
+  },
+  {
+    "title": "Wildlife Biologist",
+    "interest": "science & research",
+    "salary": "₹5,00,000",
+    "nature": "Studies wildlife and conservation",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Science Lab Technician",
+    "interest": "science & research",
+    "salary": "₹3,50,000",
+    "nature": "Assists in scientific experiments and lab maintenance",
+    "exams": "None",
+    "effort": "Low"
+  },
+  {
+    "title": "Cryogenic Engineer",
+    "interest": "science & research",
+    "salary": "₹8,50,000",
+    "nature": "Works with extremely low temperatures in research",
+    "exams": "GATE",
+    "effort": "High"
+  },
+  {
+    "title": "Seismologist",
+    "interest": "science & research",
+    "salary": "₹7,00,000",
+    "nature": "Studies earthquakes and seismic activity",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Research Analyst (Scientific)",
+    "interest": "science & research",
+    "salary": "₹6,00,000",
+    "nature": "Analyzes scientific and technical data for projects",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Science Educator",
+    "interest": "science & research",
+    "salary": "₹5,00,000",
+    "nature": "Teaches and promotes science education",
+    "exams": "NET (if academic)",
+    "effort": "Medium"
+  },
+  {
+    "title": "Remote Sensing Specialist",
+    "interest": "science & research",
+    "salary": "₹7,00,000",
+    "nature": "Uses satellite data for research and analysis",
+    "exams": "ISRO Exam",
+    "effort": "High"
+  },
+  {
+    "title": "Science Museum Curator",
+    "interest": "science & research",
+    "salary": "₹4,50,000",
+    "nature": "Manages scientific exhibits and archives",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Science Illustrator",
+    "interest": "science & research",
+    "salary": "₹4,00,000",
+    "nature": "Creates visuals for scientific publications",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Behavioral Scientist",
+    "interest": "science & research",
+    "salary": "₹6,50,000",
+    "nature": "Researches human behavior and psychology",
+    "exams": "None",
+    "effort": "High"
+  },
+  {
+    "title": "Space Scientist",
+    "interest": "science & research",
+    "salary": "₹10,00,000",
+    "nature": "Explores space technologies and missions",
+    "exams": "ISRO Recruitment",
+    "effort": "Very High"
+  },
+  {
+    "title": "Hydrologist",
+    "interest": "science & research",
+    "salary": "₹6,50,000",
+    "nature": "Studies water cycles and distribution",
+    "exams": "GATE",
+    "effort": "High"
+  },
+  {
+    "title": "Population Scientist",
+    "interest": "science & research",
+    "salary": "₹6,00,000",
+    "nature": "Researches population trends and demographics",
+    "exams": "None",
+    "effort": "Medium"
+  },
+  {
+    "title": "Indian Administrative Service (IAS) Officer",
+    "interest": "government & civil services",
+    "salary": "₹67,000 + allowances",
+    "nature": "Policy making, administration, governance",
+    "exams": "UPSC Civil Services Exam",
+    "effort": "Very High"
+  },
+  {
+    "title": "Indian Police Service (IPS) Officer",
+    "interest": "government & civil services",
+    "salary": "₹67,000 + allowances",
+    "nature": "Law enforcement, crime control, internal security",
+    "exams": "UPSC Civil Services Exam",
+    "effort": "Very High"
+  },
+  {
+    "title": "Indian Foreign Service (IFS) Officer",
+    "interest": "government & civil services",
+    "salary": "₹60,000–₹90,000 + foreign allowances",
+    "nature": "Diplomatic postings, international relations",
+    "exams": "UPSC Civil Services Exam",
+    "effort": "Very High"
+  },
+  {
+    "title": "Indian Revenue Service (IRS) Officer",
+    "interest": "government & civil services",
+    "salary": "₹67,000 + allowances",
+    "nature": "Tax collection and enforcement",
+    "exams": "UPSC Civil Services Exam",
+    "effort": "Very High"
+  },
+  {
+    "title": "Indian Audit and Accounts Service (IAAS) Officer",
+    "interest": "government & civil services",
+    "salary": "₹56,000 + allowances",
+    "nature": "Auditing central and state government accounts",
+    "exams": "UPSC Civil Services Exam",
+    "effort": "High"
+  },
+  {
+    "title": "Indian Information Service (IIS) Officer",
+    "interest": "government & civil services",
+    "salary": "₹56,000 + allowances",
+    "nature": "Media management and public communication",
+    "exams": "UPSC Civil Services Exam",
+    "effort": "High"
+  },
+  {
+    "title": "Indian Trade Service (ITS) Officer",
+    "interest": "government & civil services",
+    "salary": "₹56,000 + allowances",
+    "nature": "Trade policy and export promotion",
+    "exams": "UPSC Civil Services Exam",
+    "effort": "High"
+  },
+  {
+    "title": "Indian Defence Accounts Service (IDAS)",
+    "interest": "government & civil services",
+    "salary": "₹56,000 + allowances",
+    "nature": "Financial management for defence forces",
+    "exams": "UPSC Civil Services Exam",
+    "effort": "High"
+  },
+  {
+    "title": "Indian Ordnance Factories Service (IOFS)",
+    "interest": "government & civil services",
+    "salary": "₹56,000 + allowances",
+    "nature": "Manufacturing and R&D for defence",
+    "exams": "UPSC Civil Services Exam",
+    "effort": "High"
+  },
+  {
+    "title": "State Civil Services (SDM, Tehsildar, etc.)",
+    "interest": "government & civil services",
+    "salary": "₹50,000–₹65,000",
+    "nature": "State-level administration and governance",
+    "exams": "State PSC Exams",
+    "effort": "High"
+  },
+  {
+    "title": "State Police Service (DySP, ACP, etc.)",
+    "interest": "government & civil services",
+    "salary": "₹50,000–₹65,000",
+    "nature": "State-level law enforcement",
+    "exams": "State PSC Exams",
+    "effort": "High"
+  },
+  {
+    "title": "Public Sector Bank Probationary Officer (PO)",
+    "interest": "government & civil services",
+    "salary": "₹52,000–₹60,000",
+    "nature": "Banking, customer service, and operations",
+    "exams": "IBPS PO, SBI PO",
+    "effort": "Medium"
+  },
+  {
+    "title": "Assistant Section Officer (ASO)",
+    "interest": "government & civil services",
+    "salary": "₹44,900 + allowances",
+    "nature": "Clerical and administrative duties in ministries",
+    "exams": "SSC CGL",
+    "effort": "Medium"
+  },
+  {
+    "title": "Income Tax Inspector",
+    "interest": "government & civil services",
+    "salary": "₹44,900 + allowances",
+    "nature": "Tax assessment and enforcement",
+    "exams": "SSC CGL",
+    "effort": "High"
+  },
+  {
+    "title": "Customs Officer",
+    "interest": "government & civil services",
+    "salary": "₹44,900 + allowances",
+    "nature": "Monitoring import/export, smuggling prevention",
+    "exams": "SSC CGL",
+    "effort": "High"
+  },
+  {
+    "title": "Excise Inspector",
+    "interest": "government & civil services",
+    "salary": "₹42,000–₹50,000",
+    "nature": "Monitoring manufacturing and taxation of goods",
+    "exams": "SSC CGL",
+    "effort": "Medium"
+  },
+  {
+    "title": "Railway Protection Force (RPF) Officer",
+    "interest": "government & civil services",
+    "salary": "₹35,000–₹60,000",
+    "nature": "Railway law enforcement and protection",
+    "exams": "RPF Exam",
+    "effort": "Medium"
+  },
+  {
+    "title": "Indian Forest Service (IFoS) Officer",
+    "interest": "government & civil services",
+    "salary": "₹56,000 + allowances",
+    "nature": "Wildlife and forest conservation",
+    "exams": "UPSC IFoS",
+    "effort": "Very High"
+  },
+  {
+    "title": "Sub-Inspector (SI)",
+    "interest": "government & civil services",
+    "salary": "₹35,000–₹50,000",
+    "nature": "Maintaining law and order",
+    "exams": "SSC CPO / State Exams",
+    "effort": "Medium"
+  },
+  {
+    "title": "Clerk (Government Departments)",
+    "interest": "government & civil services",
+    "salary": "₹25,000–₹35,000",
+    "nature": "Office and document handling",
+    "exams": "SSC CHSL",
+    "effort": "Low"
+  },
+  {
+    "title": "Junior Engineer (JE)",
+    "interest": "government & civil services",
+    "salary": "₹35,000–₹45,000",
+    "nature": "Civil, mechanical or electrical public projects",
+    "exams": "SSC JE",
+    "effort": "Medium"
+  },
+  {
+    "title": "Assistant Engineer (AE)",
+    "interest": "government & civil services",
+    "salary": "₹56,000–₹60,000",
+    "nature": "Planning and execution of government projects",
+    "exams": "State AE Exams/GATE",
+    "effort": "High"
+  },
+  {
+    "title": "Postal Service Officer",
+    "interest": "government & civil services",
+    "salary": "₹35,000–₹50,000",
+    "nature": "Managing postal services",
+    "exams": "India Post GDS/SSC",
+    "effort": "Low"
+  },
+  {
+    "title": "Government School Teacher",
+    "interest": "government & civil services",
+    "salary": "₹30,000–₹50,000",
+    "nature": "Teaching in primary or secondary schools",
+    "exams": "CTET/TET",
+    "effort": "Medium"
+  },
+  {
+    "title": "Lecturer/Assistant Professor",
+    "interest": "government & civil services",
+    "salary": "₹56,100 + academic grade pay",
+    "nature": "Teaching and research in colleges",
+    "exams": "UGC NET",
+    "effort": "High"
+  },
+  {
+    "title": "Public Sector Undertaking (PSU) Officer",
+    "interest": "government & civil services",
+    "salary": "₹60,000–₹1,80,000",
+    "nature": "Engineering or managerial work in PSUs",
+    "exams": "GATE + PSU recruitment",
+    "effort": "High"
+  },
+  {
+    "title": "LIC Assistant/AAO",
+    "interest": "government & civil services",
+    "salary": "₹56,000–₹70,000",
+    "nature": "Insurance operations and management",
+    "exams": "LIC AAO Exam",
+    "effort": "Medium"
+  },
+  {
+    "title": "UPSC EPFO Enforcement Officer",
+    "interest": "government & civil services",
+    "salary": "₹53,000–₹60,000",
+    "nature": "Labor law and provident fund enforcement",
+    "exams": "UPSC EPFO",
+    "effort": "High"
+  },
+  {
+    "title": "National Defence Academy Officer",
+    "interest": "government & civil services",
+    "salary": "₹56,100 starting",
+    "nature": "Military officer in Army, Navy, or Air Force",
+    "exams": "NDA Exam",
+    "effort": "Very High"
+  },
+  {
+    "title": "Combined Defence Services (CDS) Officer",
+    "interest": "government & civil services",
+    "salary": "₹56,100 starting",
+    "nature": "Military officer after graduation",
+    "exams": "CDS Exam",
+    "effort": "Very High"
+  },
+  {
+    "title": "DRDO Scientist",
+    "interest": "government & civil services",
+    "salary": "₹80,000–₹90,000",
+    "nature": "R&D for defense technologies",
+    "exams": "GATE + DRDO Entry Test",
+    "effort": "Very High"
+  },
+  {
+    "title": "ISRO Scientist/Engineer",
+    "interest": "government & civil services",
+    "salary": "₹80,000–₹90,000",
+    "nature": "Research and development in space science",
+    "exams": "ISRO Exam/GATE",
+    "effort": "Very High"
+  },
+  {
+    "title": "Intelligence Bureau (IB) Officer",
+    "interest": "government & civil services",
+    "salary": "₹44,900 + allowances",
+    "nature": "Intelligence gathering and national security",
+    "exams": "IB ACIO Exam",
+    "effort": "High"
+  },
+  {
+    "title": "CBI Officer",
+    "interest": "government & civil services",
+    "salary": "₹44,900 + allowances",
+    "nature": "Investigative officer for national cases",
+    "exams": "SSC CGL",
+    "effort": "High"
+  },
+  {
+    "title": "Assistant Commandant (CAPF)",
+    "interest": "government & civil services",
+    "salary": "₹56,100",
+    "nature": "Leadership in paramilitary forces",
+    "exams": "UPSC CAPF",
+    "effort": "High"
+  },
+  {
+    "title": "Delhi Administrative Service (DANICS)",
+    "interest": "government & civil services",
+    "salary": "₹56,100 + allowances",
+    "nature": "Administering Union Territories",
+    "exams": "UPSC Civil Services",
+    "effort": "High"
+  },
+  {
+    "title": "Public Relations Officer (Government)",
+    "interest": "government & civil services",
+    "salary": "₹45,000–₹60,000",
+    "nature": "Handling government communication with media",
+    "exams": "State PSC/UPSC",
+    "effort": "Medium"
+  },
+  {
+    "title": "District Education Officer (DEO)",
+    "interest": "government & civil services",
+    "salary": "₹50,000–₹60,000",
+    "nature": "Overseeing education at district level",
+    "exams": "State PSC",
+    "effort": "High"
+  },
+  {
+    "title": "Block Development Officer (BDO)",
+    "interest": "government & civil services",
+    "salary": "₹50,000–₹60,000",
+    "nature": "Managing rural development schemes",
+    "exams": "State PSC",
+    "effort": "High"
+  },
+  {
+    "title": "Municipal Commissioner",
+    "interest": "government & civil services",
+    "salary": "₹60,000–₹75,000",
+    "nature": "Urban local body administration",
+    "exams": "State PSC/Promotion",
+    "effort": "High"
+  },
+  {
+    "title": "Court Clerk (District Courts)",
+    "interest": "government & civil services",
+    "salary": "₹30,000–₹40,000",
+    "nature": "Judicial support and case documentation",
+    "exams": "State Court Exams",
+    "effort": "Low"
+  },
+  {
+    "title": "Gram Sevak",
+    "interest": "government & civil services",
+    "salary": "₹25,000–₹35,000",
+    "nature": "Village level governance",
+    "exams": "State Government Exams",
+    "effort": "Low"
+  }
+]
