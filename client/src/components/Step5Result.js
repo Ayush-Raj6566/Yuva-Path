@@ -7,7 +7,7 @@ const Step5Result = ({ formData }) => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    axios.post('http://localhost:5000/get-jobs', { interest: formData.interest })
+    axios.post('https://yuva-path-backend.onrender.com/get-jobs', { interest: formData.interest })
       .then(response => {
         setJobs(response.data);
         setLoading(false);
