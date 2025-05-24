@@ -7,7 +7,9 @@ const PORT = process.env.PORT || 5000;
 app.use(cors());
 app.use(express.json());
 
-const jobData = JSON.parse(fs.readFileSync('./jobData.json', 'utf-8'));
+const path = require('path');
+const jobData = JSON.parse(fs.readFileSync(path.join(__dirname, 'jobData.json'), 'utf-8'));
+
 
 app.post('/get-jobs', (req, res) => {
   const { interest } = req.body;
