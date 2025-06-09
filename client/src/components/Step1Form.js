@@ -20,7 +20,7 @@ const Step1Form = ({ formData, setFormData, nextStep }) => {
             <input
               id="name"
               type="text"
-              placeholder="e.g. Ayush Sharma"
+              placeholder="e.g. Ayussh Raaj"
               className="w-full px-3 py-2 sm:px-4 sm:py-3 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-400 outline-none"
               value={formData.name}
               onChange={(e) => setFormData({ ...formData, name: e.target.value })}
