@@ -1,6 +1,6 @@
 import React from 'react';
 import { Briefcase, ChevronDown } from 'lucide-react';
-
+import {Animation2} from './CartoonAnimation'
 const interests = [
   "Science & Research", "Technology", "Engineering", "Commerce & Finance",
   "Law & Legal Services", "Healthcare & Medicine", "Government & Civil Services",
@@ -17,10 +17,11 @@ const interests = [
   "NGO & Development Sector"
 ];
 
-const Step2Form = ({ formData, setFormData, nextStep }) => {
+const Step2Form = ({ formData, setFormData, nextStep, prevStep }) => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-blue-50 to-blue-100 px-4 py-10">
       <div className="w-full max-w-md sm:max-w-xl bg-white rounded-2xl shadow-lg p-6 sm:p-8 animate-fade-in">
+        <Animation2/>
         <h2 className="text-xl sm:text-3xl font-bold text-blue-700 mb-6 flex items-center gap-2">
           <Briefcase className="w-6 h-6 sm:w-7 sm:h-7 text-blue-500" />
           Step 2: Choose Your Interest
@@ -77,12 +78,29 @@ const Step2Form = ({ formData, setFormData, nextStep }) => {
           </div>
         </div>
 
-        <button
-          onClick={nextStep}
-          className="mt-6 w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 rounded-lg shadow-md transition duration-200"
-        >
-          Next Step
-        </button>
+        {/* Buttons */}
+        <div className="mt-6 flex justify-between">
+          <button
+            onClick={prevStep}
+            className="bg-gray-200 hover:bg-gray-300 text-gray-700 font-semibold py-2 px-4 rounded-lg transition duration-200"
+          >
+            Back
+          </button>
+
+          <button
+            onClick={() => {
+              const { interest, environment, passion } = formData;
+              if (interest && environment && passion) {
+                nextStep();
+              } else {
+                alert("Please fill in all fields before proceeding.");
+              }
+            }}
+            className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-lg shadow-md transition duration-200"
+          >
+            Next Step
+          </button>
+        </div>
       </div>
     </div>
   );

@@ -1,7 +1,7 @@
 import React from 'react';
 import { GraduationCap, Star, SlidersHorizontal, BookOpen } from 'lucide-react';
-
-const Step3Form = ({ formData, setFormData, nextStep }) => {
+import {Animation3} from './CartoonAnimation';
+const Step3Form = ({ formData, setFormData, nextStep, prevStep }) => {
   const qualifications = [
     '10th Pass', '12th Pass', 'Diploma', 'Undergraduate', 'Postgraduate',
     'PhD or Higher', 'Other'
@@ -10,6 +10,7 @@ const Step3Form = ({ formData, setFormData, nextStep }) => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-blue-50 to-blue-100 px-4 py-10">
       <div className="w-full max-w-md sm:max-w-xl bg-white rounded-2xl shadow-lg p-6 sm:p-8 animate-fade-in">
+        <Animation3/>
         <h2 className="text-xl sm:text-3xl font-bold text-blue-700 mb-6 flex items-center gap-2">
           <GraduationCap className="w-6 h-6 sm:w-7 sm:h-7 text-blue-500" />
           Step 3: Academic Details
@@ -77,12 +78,29 @@ const Step3Form = ({ formData, setFormData, nextStep }) => {
           </div>
         </div>
 
-        <button
-          onClick={nextStep}
-          className="mt-6 w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 rounded-lg shadow-md transition duration-200"
-        >
-          Next Step
-        </button>
+        {/* Buttons */}
+        <div className="mt-6 flex justify-between">
+          <button
+            onClick={prevStep}
+            className="bg-gray-200 hover:bg-gray-300 text-gray-700 font-semibold py-2 px-4 rounded-lg transition duration-200"
+          >
+            Back
+          </button>
+
+          <button
+            onClick={() => {
+              const { qualification, stream, skills, performance } = formData;
+              if (qualification && stream && skills && performance) {
+                nextStep();
+              } else {
+                alert("Please fill in all fields before proceeding.");
+              }
+            }}
+            className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-lg shadow-md transition duration-200"
+          >
+            Next Step
+          </button>
+        </div>
       </div>
     </div>
   );

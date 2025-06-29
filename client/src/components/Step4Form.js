@@ -1,10 +1,11 @@
 import React from 'react';
 import { Compass, Target } from 'lucide-react';
-
-const Step4Form = ({ formData, setFormData, nextStep }) => {
+import {Animation4} from "./CartoonAnimation"
+const Step4Form = ({ formData, setFormData, nextStep, prevStep }) => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-blue-50 to-blue-100 px-4 py-10">
       <div className="w-full max-w-md sm:max-w-xl bg-white rounded-2xl shadow-lg p-6 sm:p-8 animate-fade-in">
+        <Animation4/>
         <h2 className="text-xl sm:text-3xl font-bold text-blue-700 mb-6 flex items-center gap-2">
           <Compass className="w-6 h-6 sm:w-7 sm:h-7 text-blue-500" />
           Step 4: Career Preferences
@@ -100,12 +101,29 @@ const Step4Form = ({ formData, setFormData, nextStep }) => {
           </div>
         </div>
 
-        <button
-          onClick={nextStep}
-          className="mt-6 w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 rounded-lg shadow-md transition duration-200"
-        >
-          Get Career Suggestions
-        </button>
+        {/* Buttons */}
+        <div className="mt-6 flex justify-between">
+          <button
+            onClick={prevStep}
+            className="bg-gray-200 hover:bg-gray-300 text-gray-700 font-semibold py-2 px-4 rounded-lg transition duration-200"
+          >
+            Back
+          </button>
+
+          <button
+            onClick={() => {
+              const { environment, workStyle, personality, goal, relocate } = formData;
+              if (environment && workStyle && personality && goal && relocate) {
+                nextStep();
+              } else {
+                alert("Please fill in all fields before proceeding.");
+              }
+            }}
+            className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-lg shadow-md transition duration-200"
+          >
+            Get Career Suggestions
+          </button>
+        </div>
       </div>
     </div>
   );
