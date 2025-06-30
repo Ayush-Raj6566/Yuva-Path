@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { BadgeCheck, Building2, Banknote, Flame, BookOpen, AlertCircle } from 'lucide-react';
-
+import {Animation4} from "./CartoonAnimation"
 const Step5Result = ({ formData }) => {
   const [jobs, setJobs] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -26,7 +26,10 @@ const Step5Result = ({ formData }) => {
         </h2>
 
         {loading ? (
+          <div>
           <p className="text-center text-lg text-blue-600 animate-pulse">Loading career options...</p>
+          <Animation4/>
+          </div>
         ) : jobs.length === 0 ? (
           <div className="flex flex-col items-center text-gray-600 mt-20">
             <AlertCircle className="w-12 h-12 text-red-400 mb-2" />
